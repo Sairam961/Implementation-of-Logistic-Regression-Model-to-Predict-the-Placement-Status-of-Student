@@ -67,7 +67,9 @@ plt.show()
 
 
 ## Output:
-![the Logistic Regression Model to Predict the Placement Status of Student](sam.png)
+<img src="ex5 output 1.png" alt="Output" width="500">
+
+<img src="ex5 output 2.png" alt="Output" width="500">
 
 
 ## Result:
